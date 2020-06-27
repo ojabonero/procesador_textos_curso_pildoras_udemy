@@ -1,1 +1,1 @@
-# procesador_textos_curso_pildoras_udemy
+Simple word processor made in java in the course of Udemy ("Pildoras Informaticas").
